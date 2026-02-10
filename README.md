@@ -3,13 +3,10 @@
 Videogioco 2D narrativo a turni ispirato alla cultura e al folklore siciliano.  
 Progetto sviluppato per il corso di **Ingegneria del Software** con focus su architettura, manutenibilità, test e metodologia **Agile/Scrum**.
 
-- **Team:** Team 8
-- **Tecnologie:** Python, Pygame
-
- “Un brindisi, un liquido viola, e la Sicilia reale si dissolve in una dimensione onirica.”
+- **Team:** Maria Amelia Morsellino, Matilda Lo Verso, Roberto Bruno, Antonino Muscarella, Stefano Monfalcone
 
 #### Come giocare
-Bisogna scaricare pygame ed eseguire il file src/main.py
+Bisogna scaricare pygame ed eseguire il file src/main.py, oppure usare il file eseguibile per windows
 
 #### Struttura della repository
 La struttura scelta per le cartelle e i file della repository nei branch è la seguente:
