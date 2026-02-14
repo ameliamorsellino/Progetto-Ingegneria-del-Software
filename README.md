@@ -3,7 +3,7 @@
 Videogioco 2D narrativo a turni ispirato alla cultura e al folklore siciliano.  
 Progetto sviluppato per il corso di **Ingegneria del Software** con focus su architettura, manutenibilità, test e metodologia **Agile/Scrum**.
 
-- **Team:** Maria Amelia Morsellino, Matilda Lo Verso, Roberto Bruno, Antonino Muscarella, Stefano Monfalcone
+**Team:** Maria Amelia Morsellino, Matilda Lo Verso, Roberto Bruno, Antonino Muscarella, Stefano Monfalcone
 
 #### Come giocare
 Bisogna scaricare pygame ed eseguire il file src/main.py, oppure usare il file eseguibile per windows
